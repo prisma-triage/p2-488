@@ -1,0 +1,9 @@
+{
+  "name": "p2-lift-ambi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma2": "^2.0.0-alpha.206"
+  }
+}
